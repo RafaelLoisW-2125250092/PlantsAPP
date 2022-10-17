@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PlantsAPP</string>
+    <string name="signup_text"><b>Don\'t have an account? <u><font color='#004D40'>Sign up</font></u></b></string>
+    <string name="textregister"><b><font color='#004D40'>By signing you agree to our</font></b>Team of use <b><font color='#004D40'>\nand</font></b> privacy notice</string>
+    <string name="forgot_password"><u><font color='#004D40'>Forgot Password?</font></u></string>
+</resources>
